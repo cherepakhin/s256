@@ -1,4 +1,4 @@
-### Template for project Spring Boot 2.5.6
+### Template for project Spring Boot 2.5.6 and Maven
 
 Run unit test:
 
