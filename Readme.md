@@ -3,12 +3,7 @@
 Set JAVA 17:
 
 ````shell
-export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-````
-
-or
-
-````shell
+$ export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 $ echo $JAVA_HOME
 /usr/lib/jvm/java-17-openjdk-amd64
 ````
@@ -16,7 +11,9 @@ $ echo $JAVA_HOME
 Set JAVA 11:
 
 ````shell
-export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+$ export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+$ echo $JAVA_HOME
+/usr/lib/jvm/java-11-openjdk-amd64
 ````
 
 Run unit test:
